@@ -17,7 +17,7 @@ function App() {
     return (
       <div className="h-screen flex items-center justify-center bg-black">
         {/* <ClipLoader color="#FFD700" size={50} /> */}
-        <img src="abbb.jpg" alt="" className='w-11 h-11' />
+        <img src="abbb.jpg" alt="" className='w-24 h-24' />
       </div>
     );
   }
