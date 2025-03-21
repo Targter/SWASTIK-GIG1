@@ -113,7 +113,7 @@ function App() {
           <p className="text-xl mb-12">
             For Any Queries, Emergencies, Feedback or Complaints. We Are Here To Help You 24/7 With Our Online Services.
           </p>
-          <a href="https://www.whatsapp.com/">
+          <a href="https://wa.me/918740881801">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
             WHATSAPP
           </button>
