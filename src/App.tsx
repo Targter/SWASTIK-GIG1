@@ -28,7 +28,7 @@ function App() {
       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
-          backgroundImage: 'url("ab.webp")', // Correct path for public folder
+          backgroundImage: 'url("abc.jpg")', // Correct path for public folder
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
@@ -38,7 +38,7 @@ function App() {
           <p className="text-2xl text-white mb-12">WE OFFER BEST & GENUINE EXPERIENCE</p>
           {/* <div className="w-24 h-1 bg-white mb-12"></div> */}
 
-          <a href="https://t.me/tanmay123">
+          <a href="https://t.me/Sarpanchexch">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center">
             GET YOUR ID NOW
           </button>
@@ -53,7 +53,7 @@ function App() {
           <p className="text-lg mb-12 max-w-4xl mx-auto">
             Sarpanch Exchange is your trusted ID provider. We specialize in all types of sports and gaming IDs, offering a seamless experience for online cricket and various gaming platforms. Join our community of over 100k satisfied players.
           </p>
-          <a href="https://t.me/tanmay123"><button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center mx-auto">
+          <a href="https://t.me/Sarpanchexch"><button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center mx-auto">
             GET YOUR ID NOW
           </button></a>
           {/* <div className="flex justify-center mt-12"> */}
@@ -89,7 +89,7 @@ function App() {
               <span className="text-lg">✓ 24/7 Customer Support</span>
             </div>
           </div>
-          <a href="https://t.me/tanmay123">
+          <a href="https://t.me/Sarpanchexch">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center mx-auto">
             GET YOUR ID NOW
           </button>
@@ -104,7 +104,7 @@ function App() {
       <section 
         className="py-20 bg-cover bg-center relative"
         style={{
-          backgroundImage: "url('/ab.webp')", // Correct path for public folder
+          backgroundImage: "url('/abc2.jpeg')", // Correct path for public folder
         }}
       >
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
