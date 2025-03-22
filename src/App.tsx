@@ -35,7 +35,7 @@ function App() {
         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
           
           <h1 className="md:text-6xl sm:text-4xl text-2xl text-white mb-12">SARPANCH EXCHANGE</h1>
-          <p className="text-2xl text-white mb-12">WE OFFER BEST & GENUINE EXPERIENCE</p>
+          <p className="text-2xl text-white mb-6">WE OFFER BEST & GENUINE EXPERIENCE</p>
           {/* <div className="w-24 h-1 bg-white mb-12"></div> */}
 
         
