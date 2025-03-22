@@ -38,9 +38,11 @@ function App() {
           <p className="text-2xl text-white mb-12">WE OFFER BEST & GENUINE EXPERIENCE</p>
           {/* <div className="w-24 h-1 bg-white mb-12"></div> */}
 
-          <a href="https://t.me/Sarpanchexch">
-          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center">
-            GET YOUR ID NOW
+        
+
+           <a href="https://wa.me/918740881801">
+          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
+            WHATSAPP
           </button>
           </a>
         </div>
@@ -53,9 +55,11 @@ function App() {
           <p className="text-lg mb-12 max-w-4xl mx-auto">
             Sarpanch Exchange is your trusted ID provider. We specialize in all types of sports and gaming IDs, offering a seamless experience for online cricket and various gaming platforms. Join our community of over 100k satisfied players.
           </p>
-          <a href="https://t.me/Sarpanchexch"><button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center mx-auto">
-            GET YOUR ID NOW
-          </button></a>
+          <a href="https://wa.me/918740881801">
+          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
+            WHATSAPP
+          </button>
+          </a>
           {/* <div className="flex justify-center mt-12"> */}
             {/* <RefreshCw className="w-12 h-12 text-yellow-600" /> */}
           {/* </div> */}
@@ -89,9 +93,9 @@ function App() {
               <span className="text-lg">✓ 24/7 Customer Support</span>
             </div>
           </div>
-          <a href="https://t.me/Sarpanchexch">
-          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center mx-auto">
-            GET YOUR ID NOW
+           <a href="https://wa.me/918740881801">
+          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
+            WHATSAPP
           </button>
           </a>
           {/* <div className="flex justify-center mt-12">
@@ -113,9 +117,9 @@ function App() {
           <p className="text-xl mb-12">
             For Any Queries, Emergencies, Feedback or Complaints. We Are Here To Help You 24/7 With Our Online Services.
           </p>
-          <a href="https://wa.me/918740881801">
-          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
-            WHATSAPP
+           <a href="https://t.me/Sarpanchexch">
+          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center">
+            GET YOUR ID NOW
           </button>
           </a>
 
