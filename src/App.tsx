@@ -118,8 +118,8 @@ function App() {
             For Any Queries, Emergencies, Feedback or Complaints. We Are Here To Help You 24/7 With Our Online Services.
           </p>
            <a href="https://t.me/Sarpanchexch">
-          <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 flex items-center">
-            GET YOUR ID NOW
+           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
+        GET YOUR ID NOW
           </button>
           </a>
 
