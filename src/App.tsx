@@ -118,7 +118,7 @@ function App() {
       </section>
     {/* About Section */}
    
-      <section className="py-24 px-4">
+      <section className="py-24 px-4 bg-[#fff5e6]">
         <div className="max-w-6xl mx-auto">
           {/* Header */}
           <div className="text-center mb-16">
