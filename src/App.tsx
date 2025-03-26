@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { RefreshCw } from 'lucide-react';
+import { ArrowRight, ExternalLink, Phone, RefreshCw, Sparkles } from 'lucide-react';
 import { ClipLoader } from 'react-spinners';
 
 function App() {
@@ -21,10 +21,23 @@ function App() {
       </div>
     );
   }
+  const services = [
+    { name: 'Radhexchange', url: 'https://www.radheexchange.com' },
+    { name: 'Saffronexchange', url: 'https://www.saffronexch.com/admin' },
+    { name: 'Daimondsmexchange', url: 'https://www.diamondexch99.com' },
+    { name: 'Allpanel', url: 'https://www.allpanel777.com/admin' },
+    { name: 'Rudra', url: 'https://rudra18.in/m/dashboard' }
+  ];
 
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
+      <div className='w-full h-[50px] bg-[#fff5e6] fixed top-0 z-10 flex items-center overflow-hidden '>
+        <div className='flex items-center w-[60%] justify-between'>
+        <img src="logo.png" className='w-14 h-14 font-black text-black ml-11' alt="" />
+        <p className='font-semibold text-xl'>SARPANCH EXCHANGE</p>
+        </div>
+        </div>
       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
@@ -103,7 +116,76 @@ function App() {
           </div> */}
         </div>
       </section>
+    {/* About Section */}
+   
+      <section className="py-24 px-4">
+        <div className="max-w-6xl mx-auto">
+          {/* Header */}
+          <div className="text-center mb-16">
+            <div className="inline-block">
+              <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 relative">
+                What We Provide You
+                <div className="absolute -top-6 -right-6">
+                  <Sparkles className="w-8 h-8 text-yellow-500 animate-pulse" />
+                </div>
+              </h1>
+            </div>
+            <p className="text-gray-600 text-lg mt-4">
+              Premium Exchange Services at Your Fingertips
+            </p>
+          </div>
 
+          {/* Services Grid */}
+          <div className="grid gap-6 mb-16 max-w-3xl mx-auto">
+            {services.map((service, index) => (
+              <a
+                key={service.name}
+                href={service.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="transform transition-all duration-300 hover:scale-[1.02] block"
+              >
+                <div className="bg-white rounded-2xl shadow-lg hover:shadow-xl p-6 flex items-center justify-between group">
+                  <div className="flex items-center gap-4">
+                    <div className="bg-green-100 rounded-full p-3">
+                      <ArrowRight className="w-6 h-6 text-green-600 group-hover:translate-x-1 transition-transform" />
+                    </div>
+                    <h3 className="text-xl font-semibold text-gray-800">{service.name}</h3>
+                  </div>
+                  <ExternalLink className="w-5 h-5 text-green-600 opacity-0 group-hover:opacity-100 transition-opacity" />
+                </div>
+              </a>
+            ))}
+          </div>
+
+          {/* WhatsApp Button */}
+          <div className="text-center">
+            <a
+              href="https://wa.me/918740881801"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block"
+            >
+              <button className="bg-[#25D366] text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-[#1ea952] transition-all duration-300 transform hover:scale-105 flex items-center gap-3 shadow-lg hover:shadow-xl">
+                <Phone className="w-6 h-6" />
+                WHATSAPP
+              </button>
+            </a>
+          </div>
+        </div>
+
+        {/* Floating WhatsApp Button */}
+        <div className="fixed bottom-8 right-8">
+          <a
+            href="https://wa.me/918740881801"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="block bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110"
+          >
+            <Phone className="w-6 h-6" />
+          </a>
+        </div>
+      </section>
       {/* Contact Section */}
       <section 
         className="py-20 bg-cover bg-center relative"
