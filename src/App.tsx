@@ -39,7 +39,7 @@ function App() {
         </div>
         </div>
       <section 
-        className="relative h-screen bg-cover bg-center"
+        className="relative h-screen bg-cover bg-center mt-11"
         style={{
           backgroundImage: 'url("ab.webp")', // Correct path for public folder
         }}
