@@ -166,11 +166,11 @@ function App() {
           {/* Services Grid */}
           <div className="grid gap-6 mb-16 max-w-3xl mx-auto">
             {services.map((service, index) => (
-              <a
+              <div
                 key={service.name}
 {/*                 href={service.url} */}
-                target="_blank"
-                rel="noopener noreferrer"
+{/*                 target="_blank" */}
+{/*                 rel="noopener noreferrer" */}
                 className="transform transition-all duration-300 hover:scale-[1.02] block"
               >
                 <div className="bg-white rounded-2xl shadow-lg hover:shadow-xl p-6 flex items-center justify-between group">
@@ -182,7 +182,7 @@ function App() {
                   </div>
                   <ExternalLink className="w-5 h-5 text-green-600 opacity-0 group-hover:opacity-100 transition-opacity" />
                 </div>
-              </a>
+              </div>
             ))}
           </div>
 
