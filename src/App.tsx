@@ -50,15 +50,15 @@ function App() {
           <p className="text-2xl text-white mb-6">WE OFFER BEST & GENUINE EXPERIENCE</p> */}
           {/* <div className="w-24 h-1 bg-white mb-12"></div> */}
 
-        <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
+{/*         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4"> */}
         
 
-           <a href="https://wa.me/918740881801">
+{/*            <a href="https://wa.me/918740881801">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-4 flex items-center mx-auto">
             WHATSAPP
           </button>
-          </a>
-        </div>
+          </a> */}
+{/*         </div> */}
       </section>
 
       {/* About Section */}
