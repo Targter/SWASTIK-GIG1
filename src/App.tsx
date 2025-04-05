@@ -68,10 +68,10 @@ function App() {
 {/*            <a href="https://wa.me/918740881801">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-4 flex items-center mx-auto">
             WHATSAPP
+      // </section>
           </button>
           </a> */}
 {/*         </div> */}
-      // </section>
   <section 
         className="relative bg-cover bg-center"
         style={{
