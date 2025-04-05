@@ -79,7 +79,7 @@ function App() {
           backgroundSize: 'cover',
           backgroundPosition: 'center',
           backgroundRepeat: 'no-repeat',
-          height: 'calc(100vh - 50px)', // Subtract navbar height
+          height: 'calc(100vh + 200px)', // Subtract navbar height
           marginTop: '50px', // Push content below navbar
           width: '100%',
           display: 'flex',
