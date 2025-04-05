@@ -38,6 +38,7 @@ function App() {
         <p className='font-semibold text-xl'>SARPANCH EXCHANGE</p>
         </div>
         </div>
+     <div>
       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
@@ -64,6 +65,8 @@ function App() {
 {/*         </div> */}
       </section>
 
+     
+     </div>
       {/* About Section */}
       <section className="py-20 bg-[#fff5e6]">
         <div className="container mx-auto px-4 text-center">
