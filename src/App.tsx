@@ -168,9 +168,7 @@ function App() {
             {services.map((service, index) => (
               <div
                 key={service.name}
-{/*                 href={service.url} */}
-{/*                 target="_blank" */}
-{/*                 rel="noopener noreferrer" */}
+
                 className="transform transition-all duration-300 hover:scale-[1.02] block"
               >
                 <div className="bg-white rounded-2xl shadow-lg hover:shadow-xl p-6 flex items-center justify-between group">
