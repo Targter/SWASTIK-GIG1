@@ -44,10 +44,7 @@ function App() {
       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
-         // height: '950px',
     backgroundImage: 'url("ab.webp")',
-    // backgroundSize: 'cover', // Optional: ensures full coverage
-    marginTop: '40px',
         }}
       >
 {/*         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
