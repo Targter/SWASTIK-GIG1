@@ -65,7 +65,7 @@ function App() {
 {/*         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4"> */}
         
 
-{/*            <a href="https://wa.me/918740881801">
+{/*            <a href="https://wa.me/917610276666">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-4 flex items-center mx-auto">
             WHATSAPP
       // </section>
@@ -96,7 +96,7 @@ function App() {
           <p className="text-lg mb-12 max-w-4xl mx-auto">
             Sarpanch Exchange is your trusted ID provider. We specialize in all types of sports and gaming IDs, offering a seamless experience for online cricket and various gaming platforms. Join our community of over 100k satisfied players.
           </p>
-          <a href="https://wa.me/918740881801">
+          <a href="https://wa.me/917610276666">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
             WHATSAPP
           </button>
@@ -134,7 +134,7 @@ function App() {
               <span className="text-lg">✓ 24/7 Customer Support</span>
             </div>
           </div>
-           <a href="https://wa.me/918740881801">
+           <a href="https://wa.me/917610276666">
           <button className="bg-yellow-600 text-white px-8 py-4 rounded-full text-xl font-semibold hover:bg-yellow-700 transition-colors duration-300 mt-12 flex items-center mx-auto">
             WHATSAPP
           </button>
@@ -189,7 +189,7 @@ function App() {
           {/* WhatsApp Button */}
           <div className="text-center">
             <a
-              href="https://wa.me/918740881801"
+              href="https://wa.me/917610276666"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block"
@@ -205,7 +205,7 @@ function App() {
         {/* Floating WhatsApp Button */}
         <div className="fixed bottom-8 right-8">
           <a
-            href="https://wa.me/918740881801"
+            href="https://wa.me/917610276666"
             target="_blank"
             rel="noopener noreferrer"
             className="block bg-[#25D366] text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110"
