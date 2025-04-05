@@ -38,7 +38,9 @@ function App() {
         <p className='font-semibold text-xl'>SARPANCH EXCHANGE</p>
         </div>
         </div>
-     <div>
+     <div style={{
+         padding: '40px',
+        }}>
       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
