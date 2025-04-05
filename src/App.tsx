@@ -53,7 +53,7 @@ function App() {
           <p className="text-2xl text-white mb-6">WE OFFER BEST & GENUINE EXPERIENCE</p> */}
           {/* <div className="w-24 h-1 bg-white mb-12"></div> */}
 
-        <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4">
+{/*         <div className="absolute inset-0 flex flex-col items-center justify-center text-center px-4"> */}
         
 
 {/*            <a href="https://wa.me/918740881801">
@@ -61,7 +61,7 @@ function App() {
             WHATSAPP
           </button>
           </a> */}
-        </div>
+{/*         </div> */}
       </section>
 
       {/* About Section */}
