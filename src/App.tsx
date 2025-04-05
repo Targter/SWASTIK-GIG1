@@ -39,7 +39,7 @@ function App() {
         </div>
         </div>
       <section 
-        className="relative h-screen bg-cover bg-center p-11"
+        className="relative h-screen bg-cover bg-center"
         style={{
          // height: '950px',
     backgroundImage: 'url("ab.webp")',
