@@ -41,7 +41,7 @@ function App() {
    
 
        
-      <section 
+{/*       <section 
         className="relative h-screen bg-cover bg-center"
         style={{
     backgroundImage: 'url("ab.webp")',
@@ -55,7 +55,7 @@ function App() {
           alignItems: 'center',
           justifyContent: 'center'
         }}
-      >
+      > */}
 {/*         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
           
           <h1 className="md:text-6xl sm:text-4xl text-2xl text-white mb-12">SARPANCH EXCHANGE</h1>
@@ -71,8 +71,24 @@ function App() {
           </button>
           </a> */}
 {/*         </div> */}
+      // </section>
+  <section 
+        className="relative bg-cover bg-center"
+        style={{
+          backgroundImage: 'url("ab.webp")',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat',
+          height: 'calc(100vh - 50px)', // Subtract navbar height
+          marginTop: '50px', // Push content below navbar
+          width: '100%',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center'
+        }}
+      >
+        {/* Add your hero content here if needed */}
       </section>
-
       {/* About Section */}
       <section className="py-20 bg-[#fff5e6]">
         <div className="container mx-auto px-4 text-center">
