@@ -168,7 +168,7 @@ function App() {
             {services.map((service, index) => (
               <a
                 key={service.name}
-                href={service.url}
+{/*                 href={service.url} */}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="transform transition-all duration-300 hover:scale-[1.02] block"
