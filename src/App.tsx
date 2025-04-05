@@ -39,7 +39,8 @@ function App() {
         </div>
         </div>
      <div style={{
-         padding: '20px',
+          paddingTop: '40px',
+    paddingBottom: '40px',
         }}>
       <section 
         className="relative h-screen bg-cover bg-center"
