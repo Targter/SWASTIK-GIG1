@@ -72,7 +72,8 @@ function App() {
           </button>
           </a> */}
 {/*         </div> */}
-  <section 
+ <a  href="https://wa.me/917610276666">
+   <section 
         className="relative bg-cover bg-center"
         style={{
           backgroundImage: 'url("ab.webp")',
@@ -87,6 +88,7 @@ function App() {
           justifyContent: 'center'
         }}
       >
+  </a>
         {/* Add your hero content here if needed */}
       </section>
       {/* About Section */}
