@@ -88,9 +88,10 @@ function App() {
           justifyContent: 'center'
         }}
       >
-  </a>
+ 
         {/* Add your hero content here if needed */}
       </section>
+       </a>
       {/* About Section */}
       <section className="py-20 bg-[#fff5e6]">
         <div className="container mx-auto px-4 text-center">
