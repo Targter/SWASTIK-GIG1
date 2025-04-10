@@ -22,9 +22,9 @@ function App() {
     );
   }
   const services = [
+    { name: 'Daimondsmexchange', url: 'https://www.diamondexch99.com' },
     { name: 'Radhexchange', url: 'https://www.radheexchange.com' },
     { name: 'Saffronexchange', url: 'https://www.saffronexch.com/admin' },
-    { name: 'Daimondsmexchange', url: 'https://www.diamondexch99.com' },
     { name: 'Allpanel', url: 'https://www.allpanel777.com/admin' },
     { name: 'Rudra', url: 'https://rudra18.in/m/dashboard' }
   ];
@@ -72,7 +72,7 @@ function App() {
           </button>
           </a> */}
 {/*         </div> */}
- <a  href="https://wa.me/917610276666">
+ <a  href="https://wa.me/917610276666"  target="_blank">
    <section 
         className="relative bg-cover bg-center"
         style={{
